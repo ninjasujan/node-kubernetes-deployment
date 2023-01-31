@@ -1,0 +1,10 @@
+{
+  "auths": {
+    "https://index.docker.io/v1/": {
+      "username": "sujanwebdev",
+      "password": "dockerhubsujanwebdev",
+      "email": "sujanb.poojary@gmail.com",
+      "auth": "c3VqYW53ZWJkZXY6ZG9ja2VyaHVic3VqYW53ZWJkZXY="
+    }
+  }
+}

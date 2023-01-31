@@ -1,0 +1,4 @@
+.env
+docker-config.json
+**.yaml
+node_modules
